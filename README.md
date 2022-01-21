@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...React JS
 - 🌱 I’m currently learning ...Javascript
 - 💞️ I’m looking to collaborate on ...React Apps
-- 📫 How to reach me ...
+- 📫 How to reach me ... @Ayivor
 
 <!---
 JimmyAyivor/JimmyAyivor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
